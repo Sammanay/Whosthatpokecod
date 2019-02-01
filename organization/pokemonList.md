@@ -90,3 +90,6 @@ Hoothoot | Main color palette, Number of legs it has
 Skarmory | Wings?, main color palette
 Tornadus | Misc
 Tirtouga | Type it looks like, irl counterpart, main color palette
+Shinx | type it looks like, main color palette, number of legs it has 
+Yamask | Main color palette 
+Cosmog | misc 
