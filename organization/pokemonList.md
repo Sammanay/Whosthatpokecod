@@ -74,4 +74,19 @@ Tropius | Main color palette, type it looks like
 Charizard | Number of legs it walks on, type it looks like, irl counterpart, main color palette 
 Snivy | Number of legs it has, main color palette, type it looks like 
 Dhelmise | Object it looks like, main color palette 
-
+Marshadow | Main color palette, type it looks like 
+Happiny | Main color palette, body shape
+Keldeo | Number of legs it has, main color palette, irl counterpart
+Spewpa | Misc
+Guzzlord | Ultra Beast, main color palette 
+Corphish | irl counterpart, main color palette, type it looks like 
+Emboar | Similar looking pokemon, main color palette, type it looks like 
+Nidorino | Main color palette, irl counterpart 
+Illumise | Main color palette 
+Mienshao | Main color palette
+Sableye | Main color palette 
+Alomomola | irl counterpart
+Hoothoot | Main color palette, Number of legs it has 
+Skarmory | Wings?, main color palette
+Tornadus | Misc
+Tirtouga | Type it looks like, irl counterpart, main color palette
