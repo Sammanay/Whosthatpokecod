@@ -71,4 +71,7 @@ Croconaw | Similar looking pokemon, main color palette, number of legs
 Mandibuzz | Irl counterpart, Wings?
 Tynamo | Main color palette 
 Tropius | Main color palette, type it looks like 
-Charizard 
+Charizard | Number of legs it walks on, type it looks like, irl counterpart, main color palette 
+Snivy | Number of legs it has, main color palette, type it looks like 
+Dhelmise | Object it looks like, main color palette 
+
