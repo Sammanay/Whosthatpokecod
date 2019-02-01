@@ -110,3 +110,17 @@ Vulpix | Similar pokemon, irl counterpart
 Electabuzz | Type it looks like, number of legs, main color palette 
 Ludicolo | Type it looks like, main color palette 
 Rowlet | Irl counterpart 
+Kangaskhan | Number of legs 
+Snubbul | Main color palette, number of legs 
+Aron | Number of legs, main color palette 
+Tapu Fini | main color palette 
+Pichu | Similar pokemon, main color palette 
+Cincinno | Similar pokemon, main color palette 
+Mudkip | Main color palette, Number of legs 
+Shuppet | Main color palette 
+Luxray | Similar pokemon, main color palette, number of legs 
+Exeggutor | Type it looks like, irl counterpart  
+Quagsire | Main color palette, type it looks like 
+Rotom | Wings?, Type it looks like 
+Lurantis | Main color palette
+Alolan Golem | 
