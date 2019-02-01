@@ -34,7 +34,7 @@ Tyrantrum | Irl counterpart, similar looking pokemon
 Herdier | Similar looking pokemon, irl counterpart 
 Ho-Oh | Wings?, main color palette, irl counterpart 
 Silcoon | Main color palette, body shape 
-Melmetal | Main color palette, type it looks like, number of legs 
+Melmetal | Misc 
 Golett | Pokemon it looks like, number of legs it walks on, main color palette 
 Umbreon | Eeveloution? | Main color palette | Number of legs it walks on 
 Parasect | Irl counterpart | Main color palette| Number of legs it walks on 
@@ -93,3 +93,20 @@ Tirtouga | Type it looks like, irl counterpart, main color palette
 Shinx | type it looks like, main color palette, number of legs it has 
 Yamask | Main color palette 
 Cosmog | misc 
+Spearow | irl counterpart, Wings?
+Chikorita | Number of legs, main color palette , type it looks like
+Wailmer | Main color palette, type it looks like, irl counterpart 
+Omanyte | Irl counterpart, main color palette 
+Marowak | Similar pokemon, number of legs
+Bergmite | Type it looks like 
+Carbink | Misc 
+Tapu Lele | Main color palette
+Buneary | Irl counterpart, main color palette 
+Woobat | Wings?, Main color palette 
+Seaking | Irl counterpart
+Meltan | Misc
+Braixen | Number of legs, irl counterpart 
+Vulpix | Similar pokemon, irl counterpart
+Electabuzz | Type it looks like, number of legs, main color palette 
+Ludicolo | Type it looks like, main color palette 
+Rowlet | Irl counterpart 
