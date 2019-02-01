@@ -65,5 +65,10 @@ Durant | Irl counterpart, main counterpart, type it looks like
 Scizor | Wings?, legs it walks on, main color palette 
 Luvdisc | Body shape, main color palette 
 Oshawott | Main color palette 
-
-
+Dedenne | Type it looks like, irl counterpart
+Swoobat | Irl counterpart, main color palette 
+Croconaw | Similar looking pokemon, main color palette, number of legs 
+Mandibuzz | Irl counterpart, Wings?
+Tynamo | Main color palette 
+Tropius | Main color palette, type it looks like 
+Charizard 
