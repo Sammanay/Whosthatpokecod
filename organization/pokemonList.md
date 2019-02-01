@@ -123,4 +123,10 @@ Exeggutor | Type it looks like, irl counterpart
 Quagsire | Main color palette, type it looks like 
 Rotom | Wings?, Type it looks like 
 Lurantis | Main color palette
-Alolan Golem | 
+Alolan Golem | Irl counterpart, main color palette 
+Turtonator | irl counterpart, main color palette 
+Wailord | Similar looking pokemon, Main color palette, type it looks like, irl pokemon
+Ampharos | Main color palette
+Turtwig | Number of legs, type it looks like
+Grovyle | Main color palette, Type it looks like,number of legs 
+Roggenrola | Number of legs, irl counterpart, main color palette
