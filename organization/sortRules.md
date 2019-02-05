@@ -16,3 +16,29 @@ These are rules as to how Pokémon would be sorted:
 * Main Shape 
   * Determined by looking at the main shape of a pokemon.
   * Shapes must be geometric,therefore Charizard doesn't qualify for this, but Togepi would 
+  
+* Type it looks like 
+  * Determined by what type it looks like
+  * Types and how they look like are as follows:
+    
+    Fire: Any Warm colors, flames 
+    
+    Water: Any blue colors, marine-like irl counterparts 
+    
+    Normal: N/A
+    
+    Fighting: Any fighting-like poses 
+    
+    Flying: Any wings, clouds
+    
+    Poison: Any smoke-like features, Purple colors
+    
+    Ground: Lighter brown colors, character in the ground 
+    
+    Rock: Dull silver colors, look like rocks 
+    
+    Bug: Lighter green colors, resemble insects 
+    
+    Ghost: Look like ghosts, light grey colors
+    
+    
