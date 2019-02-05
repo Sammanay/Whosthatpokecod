@@ -11,4 +11,8 @@ These are rules as to how Pokémon would be sorted:
 
 * Irl Counterpart
   * Determined by looking at real world counterparts. 
-  * They aren't given in specifics, just in general terms (e.g Spearow would fall under bird) 
+  * They aren't given in specifics, just in general terms (e.g Spearow would fall under bird and not sparrow) 
+
+* Main Shape 
+  * Determined by looking at the main shape of a pokemon.
+  * Shapes must be geometric,therefore Charizard doesn't qualify for this, but Togepi would 
