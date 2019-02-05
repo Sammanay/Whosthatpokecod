@@ -65,3 +65,6 @@ These are rules as to how Pokémon would be sorted:
   
 * Eeveelutions 
   * Category for pokemon that evolve from eevee, these pokemon all look alike. 
+  
+* Misc. 
+  * These pokemon don't fit into the other categories 
