@@ -40,5 +40,3 @@ These are rules as to how Pokémon would be sorted:
     Bug: Lighter green colors, resemble insects 
     
     Ghost: Look like ghosts, light grey colors
-    
-    
