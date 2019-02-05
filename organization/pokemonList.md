@@ -5,8 +5,8 @@ Mienfoo  | Number of legs it walks on, main color palette
 Mudbray | Number of legs it walks on, main color pallete, irl counterpart 
 Girafarig | Number of legs it walks on, irl counterpart
 Togepi | Main shape, number of legs it walks on 
-Fomantis | Type it looks like, color pallete 
-Maractus | irl counterpart (isn't an anmal but looks like a cactus), number of legs it walks on
+Fomantis | Type it looks like, color palette 
+Maractus | irl counterpart, number of legs it walks on
 Gible | irl counterpart, number of legs it walks on, main shape 
 Metapod | main shape
 Buizel | Type it looks like, irl counterpart 
