@@ -40,3 +40,19 @@ These are rules as to how Pokémon would be sorted:
     Bug: Lighter green colors, resemble insects 
     
     Ghost: Look like ghosts, light grey colors
+    
+    Steel: Bright Silver colors, robotic 
+    
+    Grass: Colored green, plant-like
+    
+    Electric: Colored yellow, associated with lightning
+    
+    Psychic: N/A
+    
+    Ice: Colored blue, looks icy
+    
+    Dragon: Dragon-like 
+    
+    Fairy: N/A
+    
+    Dark: Colored black or darker colors
