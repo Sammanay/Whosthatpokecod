@@ -56,3 +56,12 @@ These are rules as to how Pokémon would be sorted:
     Fairy: N/A
     
     Dark: Colored black or darker colors
+    
+* Similar looking pokemon
+  * Used for pokemon that look alike, usually pre-evs and post-evs (Ivysaur and Venusaur look alike)
+  
+* Wings? 
+  * Broader category for pokemon that have wings but aren't necessarily bird pokemon 
+  
+* Eeveelutions 
+  * Category for pokemon that evolve from eevee, these pokemon all look alike. 
