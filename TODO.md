@@ -1,3 +1,4 @@
+- [ ] Make a prototype
 - [x] Create css for navbar
 - [ ] find good font sizes (fluid-responsive)
 - [ ] Create css for headings, font sizes
